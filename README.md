@@ -1,0 +1,5 @@
+- Hi, I’m @yevhenii-khokhlov
+- I’m interested in web programming. I have 6 year experience in medicine. Now I work as Python Developer in Kyiv
+- I’m currently learning Python, JS, CSS, HTML
+- I’m looking to collaborate on helthcare projects
+- Actual info by link https://www.linkedin.com/in/yevhenii-khokhlov-0447bb201/
